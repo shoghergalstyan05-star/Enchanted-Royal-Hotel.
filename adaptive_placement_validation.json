@@ -1,0 +1,11 @@
+{
+  "status": "PASS",
+  "offline_tests": 32,
+  "adaptive_placement_behavior_tests": 9,
+  "luau_syntax": "PASS",
+  "original_milestone_zip_unchanged": true,
+  "roblox_studio_runtime": "NOT TESTED",
+  "installer_sha256": "431a2e1d4701508bc988779dd1ed0a287bd0b469a762e231db21a9079406a1d8",
+  "placement": "old world-part maximum X plus 20 stud clearance; floor height from raycast below prior LobbySpawn",
+  "physical_connection_to_old_map": "Still requires authoring"
+}

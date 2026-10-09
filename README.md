@@ -9,3 +9,7 @@ Original gameplay scripts and Royal Egg price (750 diamonds) remain unchanged. O
 ![Exterior — actual geometry render](exterior.png)
 
 ![Foyer — actual geometry render](foyer.png)
+
+## Existing castle installation update
+
+If the imported section overlaps your previous castle, use [the installer update ZIP](EnchantedRoyalHotel_Installer_Update.zip) and [its instructions](INSTALLER_UPDATE.md). This places the new section beside the existing map instead of using the original fixed position. Stop Play and click the Command Bar Run button to execute the installer. The original milestone package remains unchanged.
